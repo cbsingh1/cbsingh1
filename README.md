@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm ChandraBhan Singh
-Business Analyst
-Kuala Lumpur
+I'm ChandraBhan Singh, Business Analyst, Kuala Lumpur
 
 **Summary**
 6+ years of experience in Telecom domain. Areas of expertise
