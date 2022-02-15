@@ -2,7 +2,7 @@
 
 
  - 🔭 I’m currently working on ... Java, Spring, Spring Boot
-- 🌱 I’m currently learning ... Kubenetes, Docker
+- 🌱 I’m currently learning ... React, Javascript, Kubenetes, Docker
 - 👯 I’m looking to collaborate on ... Open Source Projects
 
 ### Connect with me:
