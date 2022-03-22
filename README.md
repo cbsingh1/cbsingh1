@@ -1,15 +1,15 @@
-### Hi there, I'm Chandra 👋
+### Hi there, I'm Chandra 👋 Working as Software Engineer.
 
 
- - 🔭 I’m currently working on ... Java, Spring, Spring Boot
-- 🌱 I’m currently learning ... React, Javascript, Kubenetes, Docker
-- 👯 I’m looking to collaborate on ... Open Source Projects
+- 🔭 I’m currently working on -> Java, Spring Boot, Microservices, Telecom Domain
+- 🌱 I’m currently learning -> React, Javascript, Kubernetes, Docker, Kafka, AWS
+- 👯 I’m looking to collaborate on -> Open Source Projects, Freelancing project
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="codeSTACKr | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 <br />
 
 ### Languages and Tools:
@@ -30,3 +30,4 @@
 
 [linkedin]: https://www.linkedin.com/in/cbhansingh1/
 [twitter]: https://twitter.com/cb_singhh
+[stackoverflow]: https://stackoverflow.com/users/2975478/chandrabhan-singh
