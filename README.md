@@ -1,4 +1,4 @@
-### Hi there, I'm Chandra 👋 Working as Software Engineer.
+### Hi there, I'm Chandra 👋 Software Engineer with 7+ Years of working experience.
 
 
 - 🔭 I’m currently working on -> Java, Spring Boot, Microservices, Telecom Domain
