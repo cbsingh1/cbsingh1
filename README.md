@@ -1,9 +1,8 @@
-### Hi there, I'm Chandra 👋 Software Engineer with 7+ Years of working experience.
+### Hi there, I'm Chandra 👋 Software Engineer with 8+ Years of working experience.
 
 
-- 🔭 I’m currently working on -> Java, Spring Boot, Microservices, Telecom Domain
-- 🌱 I’m currently learning -> React, Javascript, Kubernetes, Docker, Kafka, AWS
-- 👯 I’m looking to collaborate on -> Open Source Projects, Freelancing project
+- 🔭 I’m currently working on -> Java, Spring Boot, React, Javascript, Typescript, Microservices, Kubernetes, Docker, Kafka, AWS, Azure
+- 👯 I’m looking to collaborate on -> Open Source Projects, Freelancing project, Full time/part time roles
 
 ### Languages and Tools:
 
