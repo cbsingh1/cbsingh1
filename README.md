@@ -1,6 +1,6 @@
-### Hi there, I'm Chandra 👋 Software Engineer with 9+ Years of working experience.
+### Hi there, I'm Chandra 👋 Software Engineer with 10+ Years of working experience.
 
-- 🔭 I’m currently working on -> Java, Spring Boot, React, Javascript, Typescript, Microservices, Kubernetes, Docker
+- 🔭 I’m currently working on -> Java, Spring Boot, React, Javascript, Typescript, GraphQL, Microservices, Kubernetes, Docker
 
 ### Languages and Tools:
 
